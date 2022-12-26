@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.bg {
+  display: flex;
+  height: 70vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.productsLogo {
+  height: 40vh;
+  width: 40vh;
+}
